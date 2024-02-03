@@ -1,2 +1,6 @@
 # Discord-WebHook-Sender
-This is discord WebHook Sender! https://www.youtube.com/watch?v=DcBll2gwu9o
+Made With Visual Studio (Windows FORM)
+
+Installation
+1. Install Visual Studio (Windows Form, C++)
+2. Run .sln file
